@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article describing FalCO."
+title: "Falling Cat Optimizer (FalCO): code and results"
+type: software
+license: MIT
+repository-code: "https://github.com/12miladniaz/FalCO"
+authors:
+  - family-names: "Niaz Azari"
+    given-names: "Milad"
+  - family-names: "Ghanbari"
+    given-names: "Ali"
+  - family-names: "Pirgazi"
+    given-names: "Jamshid"
+  - family-names: "Kermani"
+    given-names: "Ali"
+keywords:
+  - particle swarm optimization
+  - metaheuristics
+  - black-box optimization
+  - CEC2022
+preferred-citation:
+  type: article
+  title: "Falling Cat Optimizer (FalCO): a particle swarm with elite-centre attraction and rank-dependent inertia"
+  authors:
+    - family-names: "Niaz Azari"
+      given-names: "Milad"
+    - family-names: "Ghanbari"
+      given-names: "Ali"
+    - family-names: "Pirgazi"
+      given-names: "Jamshid"
+    - family-names: "Kermani"
+      given-names: "Ali"
+  status: submitted

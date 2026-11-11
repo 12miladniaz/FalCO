@@ -3,6 +3,7 @@ message: "If you use this software, please cite the article describing FalCO."
 title: "Falling Cat Optimizer (FalCO): code and results"
 type: software
 license: MIT
+doi: "10.5281/zenodo.24141760"
 repository-code: "https://github.com/12miladniaz/FalCO"
 authors:
   - family-names: "Niaz Azari"

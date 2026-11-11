@@ -1,5 +1,7 @@
 # Falling Cat Optimizer (FalCO)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24141760.svg)](https://doi.org/10.5281/zenodo.24141760)
+
 This repository contains the reference implementation of the Falling Cat Optimizer (FalCO), the scripts of all
 experiments and the per-run results reported in the article
 
@@ -198,4 +200,4 @@ the competition organizers.
 
 ## Citation
 
-If you use FalCO, please cite the article above (see also `CITATION.cff`).
+If you use FalCO, please cite the article above. The code and results are archived at Zenodo, doi: [10.5281/zenodo.24141760](https://doi.org/10.5281/zenodo.24141760) (see also `CITATION.cff`).
